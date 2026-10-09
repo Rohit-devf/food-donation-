@@ -1,16 +1,25 @@
 {
+<<<<<<< HEAD
   "name": "food-donation-system",
+=======
+  "name": "rohit-project",
+>>>>>>> 0e92c252b664a59c8d9e77f59aeeb5c2f8abc92a
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
+<<<<<<< HEAD
     "lint": "oxlint",
+=======
+    "lint": "eslint .",
+>>>>>>> 0e92c252b664a59c8d9e77f59aeeb5c2f8abc92a
     "preview": "vite preview"
   },
   "dependencies": {
     "react": "^19.2.8",
+<<<<<<< HEAD
     "react-dom": "^19.2.8",
     "react-router-dom": "^7.18.4"
   },
@@ -19,6 +28,19 @@
     "@types/react-dom": "^19.2.7",
     "@vitejs/plugin-react": "^6.1.1",
     "oxlint": "^1.81.0",
+=======
+    "react-dom": "^19.2.8"
+  },
+  "devDependencies": {
+    "@eslint/js": "^10.0.1",
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "@vitejs/plugin-react": "^6.1.1",
+    "eslint": "^10.10.0",
+    "eslint-plugin-react-hooks": "^7.1.1",
+    "eslint-plugin-react-refresh": "^0.5.6",
+    "globals": "^17.12.0",
+>>>>>>> 0e92c252b664a59c8d9e77f59aeeb5c2f8abc92a
     "vite": "^8.3.0"
   }
 }
